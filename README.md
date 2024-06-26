@@ -10,7 +10,7 @@ PDF Viewer is a lightweight Android application that allows users to easily view
 
 ## Download:
 You can download the latest version of the PDF Viewer app from the following link:
-[PDF Viewer APK](https://drive.google.com/file/d/16iQ-u2UzlOT7Ln9sR9YacbxysU8DJ142/view?usp=sharing)
+[PDF Viewer APK](https://drive.google.com/file/d/1XJ9aSbarXneSJu0KjG4MBCS7utwvr49f/view?usp=sharing)
 
 ## Installation:
 1. Download the APK file from the link provided above.
